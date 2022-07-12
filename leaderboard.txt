@@ -1,0 +1,5 @@
+Player1,30000
+Player2,20000
+Player3,10000
+Player4,5000
+Player5,2000
